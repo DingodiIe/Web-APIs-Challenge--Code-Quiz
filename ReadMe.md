@@ -25,9 +25,5 @@ If you have any questions please feel free to email me at GBmbarker@gmail.com
 
 ## Images:
 
-![Project Screenshot](./Assets/LaunchPage.png)
-![Project Screenshot](./Assets/AskQuestionExample.png)
-![Project Screenshot](./Assets/CorrectAnswerExample.png)
-![Project Screenshot](./Assets/WrongAnswerExample.png)
-![Project Screenshot](./Assets/FinishPageExample.png)
-![Project Screenshot](./Assets/HighScoreExample.png)
+![Project Screenshot](./Assets/siteLaunch.png)
+
